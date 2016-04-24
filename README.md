@@ -1,6 +1,6 @@
 ReactBone
 ============
-
+Backbone/React serverless website template. Ideal for hosting from AWS S3, and similar.
 
 Build Pipeline
 =============
